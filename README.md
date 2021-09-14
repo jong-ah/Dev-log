@@ -11,6 +11,7 @@ Github에 repo로 올리면 readme.md 링크로 내용 확인이 편리하고 �
 
 ### Categories
 
+* [Algorithms](#algorithms)
 * [Github](#github)
 * [JavaScript](#javascript)
 * [React](#react)
@@ -18,6 +19,11 @@ Github에 repo로 올리면 readme.md 링크로 내용 확인이 편리하고 �
 
 ---
 
+### Algorithms
+
+- [Big-O](algorithms/Big-O.md)
+
+---
 
 ### Github
 
