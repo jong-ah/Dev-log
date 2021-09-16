@@ -11,6 +11,7 @@ Github에 repo로 올리면 readme.md 링크로 내용 확인이 편리하고 �
 
 ### Categories
 
+* [About Me](#about-me)
 * [Algorithms](#algorithms)
 * [Cloud Infra](#cloud-infra)
 * [Github](#github)
@@ -20,36 +21,44 @@ Github에 repo로 올리면 readme.md 링크로 내용 확인이 편리하고 �
 
 ---
 
+### About Me
+
+- [자기소개](about-me/자기소개.md)
+- [커리어 전환 이유](about-me/커리어-전환-이유.md)
+
+---
+
 ### Algorithms
 
-- [Big-O](algorithms/Big-O.md)
+- [Bellman Ford](algorithms/Bellman-Ford.md)
+- [Big O](algorithms/Big-O.md)
 
 ---
 
 ### Cloud Infra
 
-- [CI-CD](cloud-infra/CI-CD.md)
+- [CI/CD](cloud-infra/CI-CD.md)
 
 ---
 
 ### Github
 
-- [Code-Review](github/Code-Review.md)
+- [Code Review](github/Code-Review.md)
 
 ---
 
 ### JavaScript
 
-- [Promise-Callback](javascript/Promise-Callback.md)
+- [Promise Callback](javascript/Promise-Callback.md)
 
 ---
 
 ### React
 
-- [Hooks-API](react/Hooks-API.md)
+- [Hooks API](react/Hooks-API.md)
 
 ---
 
 ### SPA
 
-- [CSR-SSR](spa/CSR-SSR.md)
+- [CSR SSR](spa/CSR-SSR.md)
