@@ -138,6 +138,7 @@ for(var i = 0; i < 5; i++) {
 funcArr.forEach( fn => fn() ) // 0,2,4,6,8
 ```
 
+<br>
 
 ### 참고자료
 
