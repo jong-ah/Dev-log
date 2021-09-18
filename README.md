@@ -49,6 +49,7 @@ Github에 repo로 올리면 readme.md 링크로 내용 확인이 편리하고 �
 
 ### JavaScript
 
+- [Closure](javascript/Closure.md)
 - [Promise Callback](javascript/Promise-Callback.md)
 
 ---
