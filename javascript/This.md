@@ -21,17 +21,19 @@ this의 값은 **함수를 호출한 방법에 의해 결정**된다. 실행중�
 
 ```
 function programmer() {
-this.isSmart = false;
-this.upgrade = function (version) {
-this.isSmart = !!version;
-work();
+  this.isSmart = false;
+  this.upgrade = function (version) {
+    this.isSmart = !!version;
+    work();
+  }
 }
-}
+
 function work() {
-it (this.isSmart) {
-window.alert('I can do my work! I am smart!');
+  it (this.isSmart) {
+    window.alert('I can do my work! I am smart!');
+  }
 }
-}
+
 var programmer = new programmer();
 programmer.upgrade(1.1); 
 ```
@@ -44,20 +46,21 @@ programmer.upgrade(1.1);
 
 ```
 function programmer() {
-this.isSmart = false;
-this.upgrade = function (version) {
-this.isSmart = !!version;
+  this.isSmart = false;
+  this.upgrade = function (version) {
+    this.isSmart = !!version;
 
-var bindedwork = work.bind(programmer)
-bindedwork();
-}
+    var bindedwork = work.bind(programmer)
+    bindedwork();
+  }
 }
 
 function work() {
-if (this.isSmart) {
-window.alert('I can do my work! I am smart!');
+  if (this.isSmart) {
+    window.alert('I can do my work! I am smart!');
+  }
 }
-}
+
 var programmer = new programmer();
 programmer.upgrade(1.1)
 ```
