@@ -42,7 +42,7 @@ programmer.upgrade(1.1);
 
 위와 예제를 보면 alert이 실행될 것 같지만 실행되지 않는다. 함수 work는 실행되지만 그 안의 this.isSmart는 윈도우의 isSmart를 가르키는데 저 코드에서는 전역으로 준 것이 없어서 undefined로 alert이 실행되지 않는다.
 
-<br>
+<br> 
 
 ```
 function programmer() {
