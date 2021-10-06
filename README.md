@@ -23,6 +23,8 @@ Github에 repo로 올리면 readme.md 링크로 내용 확인이 편리하고 �
 
 ### About Me
 
+- [뽑아야 할 이유](about-me/뽑아야-할-이유.md)
+- [입사 후 잘할 것](about-me/입사-후-잘할것.md)
 - [자기소개](about-me/자기소개.md)
 - [커리어 전환 이유](about-me/커리어-전환-이유.md)
 
@@ -54,6 +56,7 @@ Github에 repo로 올리면 readme.md 링크로 내용 확인이 편리하고 �
 - [ES6+](javascript/ES6+.md)
 - [Promise Callback](javascript/Promise-Callback.md)
 - [This](javascript/This.md)
+- [null undefined undeclared](javascript/null-undefined-undeclared.md)
 - [동치연산자](javascript/동치연산자.md)
 
 ---
