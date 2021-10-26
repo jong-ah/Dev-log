@@ -15,6 +15,7 @@ Github에 repo로 올리면 readme.md 링크로 내용 확인이 편리하고 �
 * [Algorithms](#algorithms)
 * [Cloud Infra](#cloud-infra)
 * [Github](#github)
+* [HTTP](#http)
 * [JavaScript](#javascript)
 * [React](#react)
 * [SPA](#spa)
@@ -48,6 +49,12 @@ Github에 repo로 올리면 readme.md 링크로 내용 확인이 편리하고 �
 ### Github
 
 - [Code Review](github/Code-Review.md)
+
+--- 
+
+### HTTP
+
+- [크로스도메인 이슈 및 해결방법](http/크로스도메인-이슈-해결방법.md)
 
 ---
 
