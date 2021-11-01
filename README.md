@@ -76,6 +76,7 @@ Github에 repo로 올리면 readme.md 링크로 내용 확인이 편리하고 �
 - [Prototype](javascript/Prototype.md)
 - [This](javascript/This.md)
 - [null undefined undeclared](javascript/null-undefined-undeclared.md)
+- [객체리터럴](javascript/객체리터럴.md)
 - [동치연산자](javascript/동치연산자.md)
 
 ---
